@@ -1,4 +1,5 @@
-![social media](https://github.com/MadhusaiPathakoti/SocialMediaApp/assets/83114463/ad0acf7f-6ee4-4911-aab6-db7f63a65b19)# Social Media App
+
+# Social Media App
 
 Welcome to our Social Media App, a modern and interactive platform designed to connect people. This web application is built using HTML, CSS, and JavaScript, providing a seamless and engaging user experience.
 
@@ -20,7 +21,7 @@ Welcome to our Social Media App, a modern and interactive platform designed to c
 ## Screenshots
 
 
- Media App Screenshot](screenshots/app.png)
+ ![social media](https://github.com/MadhusaiPathakoti/SocialMediaApp/assets/83114463/ad0acf7f-6ee4-4911-aab6-db7f63a65b19)
 
 ## Technologies Used
 
